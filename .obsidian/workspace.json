@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "c1f35a1cc6662c9e",
+    "id": "48623c6bae55b050",
     "type": "split",
     "children": [
       {
-        "id": "4bf776398974f43c",
+        "id": "b493fd05934eadbf",
         "type": "tabs",
         "children": [
           {
-            "id": "cafe724e70b92695",
+            "id": "d456e89565c8aaee",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "O Óculos Espectral/Versão terror.md",
+                "file": "o oculos espectral/O Óculos Espectral/A Feira.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Versão terror"
+              "title": "A Feira"
             }
           }
         ]
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "7c6f7141b085d23a",
+    "id": "e95458aa307305a7",
     "type": "split",
     "children": [
       {
-        "id": "672dab91676e9bf9",
+        "id": "79ad3c3cb1f9c5b2",
         "type": "tabs",
         "children": [
           {
-            "id": "673bc755b3c0ed17",
+            "id": "8219d5a55c32e509",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +48,7 @@
             }
           },
           {
-            "id": "f56ad4d490779497",
+            "id": "c8695af680598bb0",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +65,7 @@
             }
           },
           {
-            "id": "75667f90deb8ec7f",
+            "id": "89b2d5cd04e139e5",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -73,38 +73,27 @@
               "icon": "lucide-bookmark",
               "title": "Marcadores"
             }
-          },
-          {
-            "id": "003ce44735147d1c",
-            "type": "leaf",
-            "state": {
-              "type": "VIEW_TYPE_LONGFORM_EXPLORER",
-              "state": {},
-              "icon": "longform",
-              "title": "Longform"
-            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 346.5
+    "width": 204.5
   },
   "right": {
-    "id": "eff4aa1b4ddb005c",
+    "id": "8c38591db65c01f6",
     "type": "split",
     "children": [
       {
-        "id": "3bc3a801a373adea",
+        "id": "6e8cc27422368178",
         "type": "tabs",
         "children": [
           {
-            "id": "b1e71065bb2e4385",
+            "id": "0632540025ae7dc5",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "O Óculos Espectral/A Feira.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,25 +103,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para A Feira"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "3ae4b51fd10b5630",
+            "id": "18fda2981f8f945f",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "O Óculos Espectral/A Feira.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída para A Feira"
+              "title": "Links de saída"
             }
           },
           {
-            "id": "5fec5683c58c5b48",
+            "id": "d94ee7c4bb481b4c",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -147,7 +135,7 @@
             }
           },
           {
-            "id": "ec20bbea1cebf041",
+            "id": "118cd7f63e18c893",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -161,56 +149,24 @@
             }
           },
           {
-            "id": "e05b4e481c208c0e",
+            "id": "e2310bfcf6d4a51d",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "O Óculos Espectral/A Feira.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de A Feira"
-            }
-          },
-          {
-            "id": "073e1a0bbd98f80c",
-            "type": "leaf",
-            "state": {
-              "type": "writing-goal",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "writing-goal"
-            }
-          },
-          {
-            "id": "92519c61f1efe58d",
-            "type": "leaf",
-            "state": {
-              "type": "writing-goal-sprint",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "writing-goal-sprint"
-            }
-          },
-          {
-            "id": "a7d216ef587e5f9b",
-            "type": "leaf",
-            "state": {
-              "type": "writing-goal",
-              "state": {},
-              "icon": "writing-goals-radar",
-              "title": "Writing goal"
+              "title": "Sumário"
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 241.5,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
@@ -221,18 +177,9 @@
       "daily-notes:Abrir a nota de hoje": false,
       "templates:Inserir modelo": false,
       "command-palette:Abrir paleta de comandos": false,
-      "bases:Criar nova base": false,
-      "templater-obsidian:Templater": false
+      "bases:Criar nova base": false
     }
   },
-  "active": "cafe724e70b92695",
-  "lastOpenFiles": [
-    "O Óculos Espectral/O óculos espectral.md",
-    "O Óculos Espectral/Versão Literária.md",
-    "O Óculos Espectral/Versão terror.md",
-    "O Óculos Espectral/manuscript.md",
-    "O Óculos Espectral/Index.md",
-    "O Óculos Espectral",
-    "Bem-vindo.md"
-  ]
+  "active": "d456e89565c8aaee",
+  "lastOpenFiles": []
 }

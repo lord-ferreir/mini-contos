@@ -6,6 +6,18 @@
   "sessionStorage": "data",
   "sessions": [
     {
+      "start": "2025-11-26T13:25:36.142Z",
+      "total": 765,
+      "drafts": {
+        "O Óculos Espectral/Index.md": {
+          "total": 765,
+          "scenes": {
+            "O óculos espectral": 765
+          }
+        }
+      }
+    },
+    {
       "start": "2025-11-26T01:21:00.090Z",
       "total": 0,
       "drafts": {

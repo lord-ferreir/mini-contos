@@ -3,11 +3,11 @@
   "showInFileExplorer": true,
   "showGoalOnCreateAndUpdate": true,
   "noteGoals": [
-    "O Óculos Espectral/A Feira.md"
+    "O Óculos Espectral/O óculos espectral.md"
   ],
   "folderGoals": [],
   "goalLeaves": [
-    "O Óculos Espectral/Sem título.md",
+    null,
     "O Óculos Espectral/A Feira.md"
   ],
   "customGoalFrontmatterKey": "word-goal",
