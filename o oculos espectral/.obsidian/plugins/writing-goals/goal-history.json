@@ -13,6 +13,20 @@
       "startCount": 327,
       "endCount": 765,
       "date": "Wed Nov 26 2025 00:00:00 GMT-0300"
+    },
+    {
+      "dailyGoal": 200,
+      "goal": 1000,
+      "startCount": 765,
+      "endCount": 765,
+      "date": "Mon Dec 01 2025 00:00:00 GMT-0300"
+    },
+    {
+      "dailyGoal": 200,
+      "goal": 1000,
+      "startCount": 765,
+      "endCount": 765,
+      "date": "Tue Dec 02 2025 00:00:00 GMT-0300"
     }
   ]
 }
