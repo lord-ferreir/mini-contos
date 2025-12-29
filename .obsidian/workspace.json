@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "o oculos espectral/O Óculos Espectral/A Feira.md",
+                "file": "o oculos espectral/O Óculos Espectral/O óculos espectral v.2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "A Feira"
+              "title": "O óculos espectral v.2"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 204.5
+    "width": 210.5
   },
   "right": {
     "id": "8c38591db65c01f6",
@@ -181,5 +181,7 @@
     }
   },
   "active": "d456e89565c8aaee",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "o oculos espectral/O Óculos Espectral/O óculos espectral.md"
+  ]
 }
